@@ -1,5 +1,5 @@
 🌦️ Weather App
-
+  https://deependra-bit.github.io/PRODIGY_WD_02/
 A simple and responsive weather app that fetches real-time weather data using the OpenWeather API. Users can get weather updates by entering a location or using their current geolocation.
 
 📋 Features
